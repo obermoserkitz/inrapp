@@ -1,0 +1,8 @@
+{
+  "name": "inrapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cd92b719"
+}

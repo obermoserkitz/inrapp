@@ -1,0 +1,6 @@
+{
+	"appId": "at.oms.inrapp",
+	"appName": "INRApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
